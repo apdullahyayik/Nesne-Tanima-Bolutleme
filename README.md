@@ -1,6 +1,6 @@
 # Nesne Tanima ve Bolutleme
 
-[![Fibonacci RMI Java EE](https://www.youtube.com/watch?v=KoOxnYbQV4o  "RMI Fibonacci Java")
+[![Fibonacci RMI Java EE](https://www.youtube.com/watch?v=KoOxnYbQV4o  "Nesne Tanima ve Bolutleme")
 
 # Ornek Uygulama
 ## Colab
