@@ -1,6 +1,8 @@
 # Nesne Tanima ve Bolutleme
 
-[![Fibonacci RMI Java EE]()](https://www.youtube.com/watch?v=KoOxnYbQV4o)
+![alt text](https://drive.google.com/file/d/1y3E3KTZJGs44LHRL47nJt_JLMcVyVy4k/view?usp=sharing "Video Demo")
+
+
 
 
 # Ornek Uygulama
