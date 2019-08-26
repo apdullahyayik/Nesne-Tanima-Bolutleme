@@ -5,6 +5,6 @@
 
 
 
-# Ornek Uygulama
+
 ## Colab
 Colab uzerinden erisim yapabilirsiniz. [the colab notebook](https://colab.research.google.com/drive/1NT5InAljpJroLBW44TObneislSnQmyz5).
