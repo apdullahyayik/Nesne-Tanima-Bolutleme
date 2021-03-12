@@ -1,4 +1,7 @@
-# Object Detection and Segmentation
+## Object Detection and Segmentation
+
+My wife (Nagehan) and daughter (Aysima)
+
 ![](out.gif)
 
 
