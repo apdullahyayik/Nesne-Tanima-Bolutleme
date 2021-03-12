@@ -1,6 +1,6 @@
 ## Object Detection and Segmentation
 
-My wife (Nagehan) and daughter (Aysima) at Kuğulu Part, Tunalı Hilmi Street Ankara
+My wife (Nagehan) and daughter (Aysima) at Kuğulu Park, Tunalı Hilmi Street Ankara
 
 ![](out.gif)
 
